@@ -927,7 +927,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: #090C14;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
@@ -940,7 +940,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: #090C14;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -949,7 +949,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #090C14;
   text-align: center;
   padding: 15px;
 }
@@ -993,7 +993,7 @@ section {
   background: #4F46E5;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: #090C14;
   transition: 0.4s;
   border-radius: 4px;
 }
